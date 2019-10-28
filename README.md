@@ -61,13 +61,12 @@ Membuat repository server
 # Melihat hasilnya pada server repository
 # Buka laman github.com,arahkan pada repositorinya.
 #Maka perubahan akan terlihat pada laman tersebut.![beranda git](https://user-images.githubusercontent.com/57026867/67646617-95178000-f961-11e9-85d8-648620a757b9.png)
-Clone Repository
-# Clone repository, pada dasarnya adalah meng-copy repository server
-dan secara otomatis membuat satu direktory sesuai dengan nama
-repositorynya (working directory).
+# Clone Repository
+# Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama
+# repositorynya (working directory).
 # Untuk melakukan cloning, gunakan perintah git cloneh(url)
 ![git clone](https://user-images.githubusercontent.com/57026867/67646724-0b1be700-f962-11e9-9cb2-f2c7bd66f8a2.png)
-Kegunaan file README.md
+# Kegunaan file README.md
 # Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah
 # file yang bernama README.md
 # Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar
