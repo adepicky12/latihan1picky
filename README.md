@@ -1,4 +1,4 @@
-# *Instalasi Git*
+# **Instalasi Git**
 # Download Git, buka website resminya Git (git-scm.com).
 # Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
 # menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
@@ -16,7 +16,7 @@ Perintah Dasar Git
 # Buka direktory aktif, misal: d:\latihan1picky (buka menggunakan Windows Explorer)
 # klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash,
 # sehingga muncul git bash commad ![git bash2](https://user-images.githubusercontent.com/57026867/67634069-14696d00-f8ea-11e9-9ef7-a35d5ef28ed9.png)
-# Buat direktory project praktikum pertama dengan nama latihan1picky
+# Buat direktory project praktikum pertama dengan nama --latihan1picky--
 # Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya
 # masuk kedalam direktori tersebut dengan perintah cd (change
  directory)
@@ -58,3 +58,12 @@ Membuat repository server
 # Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 # Perintah ini akan meminta memasukkan username dan password pada akun github.com
 ![git push origin](https://user-images.githubusercontent.com/57026867/67634449-9cea0c80-f8ee-11e9-8266-d14094b16050.png)
+# Melihat hasilnya pada server repository
+# Buka laman github.com,arahkan pada repositorinya.
+#Maka perubahan akan terlihat pada laman tersebut.![beranda git](https://user-images.githubusercontent.com/57026867/67646617-95178000-f961-11e9-85d8-648620a757b9.png)
+Clone Repository
+# Clone repository, pada dasarnya adalah meng-copy repository server
+dan secara otomatis membuat satu direktory sesuai dengan nama
+repositorynya (working directory).
+# Untuk melakukan cloning, gunakan perintah git cloneh(url)
+![git clone](https://user-images.githubusercontent.com/57026867/67646724-0b1be700-f962-11e9-9cb2-f2c7bd66f8a2.png)
