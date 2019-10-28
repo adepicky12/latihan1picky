@@ -67,3 +67,10 @@ dan secara otomatis membuat satu direktory sesuai dengan nama
 repositorynya (working directory).
 # Untuk melakukan cloning, gunakan perintah git cloneh(url)
 ![git clone](https://user-images.githubusercontent.com/57026867/67646724-0b1be700-f962-11e9-9cb2-f2c7bd66f8a2.png)
+Kegunaan file README.md
+# Apabila kita menggunakan github, untuk memberikan penjelasan awal pada project yang kita buat, maka dapat menggunakan sebuah
+# file yang bernama README.md
+# Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar
+# cara penggunaan dari aplikasi yang kita kembangkan.
+# Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
+# untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/
