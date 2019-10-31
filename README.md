@@ -73,3 +73,5 @@ Membuat repository server
 # cara penggunaan dari aplikasi yang kita kembangkan.
 # Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
 # untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/
+![git version](https://user-images.githubusercontent.com/57026867/67922228-c354c400-fbdc-11e9-82b2-07c88645ddbf.png)
+
