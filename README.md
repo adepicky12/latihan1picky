@@ -1,13 +1,12 @@
-# **Instalasi Git**
-# Download Git, buka website resminya Git (git-scm.com).
-# Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
-# menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
+# 1. **Instalasi Git**
+# 2.Download Git, buka website resminya Git (git-scm.com).
+# 3.Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau
+# 4.menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 # ![download git](https://user-images.githubusercontent.com/57026867/67633744-555f8280-f8e6-11e9-9b50-9fa68dc0786d.png)
-# Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka CMD atau PowerShell, kemudian
+# 5.Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka CMD atau PowerShell, kemudian
 ![git version](https://user-images.githubusercontent.com/57026867/67633769-ae2f1b00-f8e6-11e9-82b8-dd2cc56412f7.png)
-# Menambahkan Global Config,Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
-# user.name dan user.email
-# konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
+# 7.Menambahkan Global Config,Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
+# 8.konfigurasi ini bisa dilakukan untuk global repostiry atau individual repository.
 # apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi
 # kegagalan saat menjalankan perintah *git commit*
 # Config Global Repository
