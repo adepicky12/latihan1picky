@@ -52,5 +52,4 @@ Membuat repository server
 # 35. dapat menggunakan sebuah file yang bernama README.md Pada file tersebut kita dapat membuat dokumentasi awal dari setiap projec
 # 36. yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 # 37. Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
-# 38. untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/
-![git version](https://user-images.githubusercontent.com/57026867/67922228-c354c400-fbdc-11e9-82b2-07c88645ddbf.png)
+# 38. untuk lebih jelasnya, dapat anda pelajari cara penggunaan markdown pada url berikut: https://guides.github.com/features/masteringmarkdown/.
